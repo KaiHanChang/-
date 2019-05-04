@@ -1,6 +1,6 @@
 h1{
   font-family: 'Caveat', cursive;
-  font-size: 150px
+  font-size: 70px
   text-align: center;
   padding-top: 25px;
   padding-bottom: 25px;
@@ -8,13 +8,13 @@ h1{
 h2{
   font-family: 'Caveat', cursive;
   color: #424242;
-  font-size: 50px
+  font-size: 30px
   text-align: justify;
   padding: 10px 20px 10px 20px;
 }
 h3{
   font-family: 'Abel', sans-serif;
-  font-size: 80px;
+  font-size: 30px;
 }
 footer{
   font-family: 'Dancing Script', cursive;
