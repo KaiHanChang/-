@@ -1,3 +1,15 @@
 h1{
-  font-family: 'Special Elite', cursive;
+  font-family: 'Caveat', cursive;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+}
+h2{
+  font-family: 'Caveat', cursive;
+  padding: 10px 20px 10px 0px;
+}
+h3{
+  font-family: 'Abel', sans-serif;
+}
+footer{
+  font-family: 'Dancing Script', cursive;
 }
