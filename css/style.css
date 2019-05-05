@@ -1,29 +1,25 @@
 h1{
   font-family: 'Caveat', cursive;
-<<<<<<< HEAD:css/style.css
-  font-size: 70px
-=======
-  font-size: 150px;
->>>>>>> d16fd43cf8fe51f0ffafd8ca0445871eb75e77d1:style.css
   text-align: center;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  font-size: 60px;
 }
 h2{
   font-family: 'Caveat', cursive;
-  color: #424242;
-<<<<<<< HEAD:css/style.css
-  font-size: 30px
-=======
->>>>>>> d16fd43cf8fe51f0ffafd8ca0445871eb75e77d1:style.css
-  text-align: justify;
-  padding: 10px 20px 10px 20px;
+  font-size: 40px;
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 h3{
   font-family: 'Abel', sans-serif;
-  font-size: 30px;
+  color: #424242;
+  font-size: 20px;
+  text-align:justify;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 footer{
   font-family: 'Dancing Script', cursive;
-  color: #424242;
+  color: gray;
+  padding-left: 100px;
 }
