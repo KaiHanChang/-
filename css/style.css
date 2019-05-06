@@ -1,3 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	max-width: 960px;
+	width: 90%;
+	margin: 0 auto;
+}
+
 h1{
   font-family: 'Caveat', cursive;
   text-align: center;
@@ -10,14 +20,18 @@ h2{
   padding-top: 20px;
   padding-bottom: 20px;
 }
-h3{
+p{
   font-family: 'Abel', sans-serif;
   color: #424242;
-  font-size: 20px;
+  font-size: 22px;
   text-align:justify;
   padding-left: 100px;
   padding-right: 100px;
+  line-height: 1.4;
+  font-weight: light;
 }
+
+
 footer{
   font-family: 'Dancing Script', cursive;
   color: gray;
